@@ -28,7 +28,7 @@ By contributing you awknowledge that you have read and understood the [contribut
 
 Clone the repository to your local machine. Use the link of either your fork or the main repository.
 ```
-git clone https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod
+git clone https://github.com/jerbear2008/Cell-Machine-Mystic-Mod
 ```
 
 ## License
