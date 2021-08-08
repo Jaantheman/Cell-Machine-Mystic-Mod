@@ -7,7 +7,7 @@
 ![Forks](https://img.shields.io/github/forks/Sequitur-Studios/Cell-Machine-Mystic-Mod)
 [![Test project](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml/badge.svg)](https://github.com/Sequitur-Studios/Cell-Machine-Mystic-Mod/actions/workflows/tests.yml)
 
-A game about cellular automata
+A game about cellular automation
 
 ## Download
 
